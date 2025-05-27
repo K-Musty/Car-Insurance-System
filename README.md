@@ -7,4 +7,4 @@
 2. Ibrahim Falalu Bawale NAS/STE/21/1090: Incleded Database tables and queries
 3. Imam Muhammad Kabir NAS/STE/21/1094: Added necessary html and css files
 4. Lawal Abdullahi Saulawa NAS/STE/21/1092: Implemented database connection and configurations
-5. Iyaabbas Alamin Abdulnasir NAS/STE/21/1098
+5. Iyaabbas Alamin Abdulnasir NAS/STE/21/1098: Made JavaScripts
