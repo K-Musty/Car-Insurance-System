@@ -9,4 +9,4 @@
 4. Lawal Abdullahi Saulawa NAS/STE/21/1092: Implemented database connection and configurations
 5. Iyaabbas Alamin Abdulnasir NAS/STE/21/1098: Made JavaScripts
 6. Abdullahi Ibrahim Yaradua NAS/STE/21/1097:  Structured Root code
-7. Abubakar Imam Salisu NAS/STE/21/1086: 
+7. Abubakar Imam Salisu NAS/STE/21/1086: Implemented dashboard, transactions and all other secondary pages
